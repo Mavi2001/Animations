@@ -1,0 +1,20 @@
+body{
+    background-color: green;
+}
+.first{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+}
+.main{
+    margin-left:360px;
+}
+.btn{
+    padding: 10px;
+    border: solid black 3px;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: orangered;
+}
